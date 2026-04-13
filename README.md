@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
-<h3 align="center">Full Stack Developer | Laravel | PHP | MySQL</h3>
+<h3 align="center">Full Stack Developer | PHP • Laravel • .NET • MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Laravel+Developer;Quick+Learner+🚀;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Laravel+%26+.NET+Developer;Quick+Learner+🚀;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 ## 🚀 About Me
 - 🎓 M.Sc (CA & IT) Student  
-- 💻 Passionate about Web Development  
-- ⚡ Quick learner & easily adapts to new technologies and languages  
+- 💻 Passionate about Full Stack Web Development  
+- ⚡ Quick learner & easily adapts to new technologies and programming languages  
 - 🔍 Focused on building scalable and real-world applications  
 
 ---
@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,mysql,html,css,js,bootstrap,git,github,vscode" />
 </p>
 
 ---
@@ -36,21 +36,36 @@
 ### 🏠 Interior Design Portal
 ✔ Full-stack platform with bidding, chat & payment system  
 ✔ Role-based system for clients & designers  
-✔ Laravel + PHP + MySQL  
+✔ Built with Laravel, PHP, MySQL, HTML, CSS, JavaScript  
+
+🔗 https://github.com/Coder011985/IDP_main  
 
 ---
 
 ### ✈️ Travel Planner
 ✔ Trip planning & booking system  
-✔ Authentication & database design  
-✔ PHP + MySQL  
+✔ User authentication & database management  
+✔ Built with ASP.NET and SQL  
+
+🔗 https://github.com/Coder011985/Main_Sem6_Bachelor_TravelPlanner  
+
+---
+
+### 🌐 Web Hosting Website
+✔ Responsive hosting service website  
+✔ Structured hosting plans & UI design  
+✔ Built with ASP.NET and MySQL  
+
+🔗 https://github.com/Coder011985/Main_Sem3_Master_WebHosting  
 
 ---
 
 ### 👨‍💼 Employee Management System
-✔ Employee CRUD & salary management  
-✔ Admin dashboard  
-✔ PHP + MySQL  
+✔ Employee CRUD, salary & admin management  
+✔ Database-driven system  
+✔ Built with C#.NET and MySQL  
+
+🔗 https://github.com/Coder011985/Main_Sem5_Bachelor_Employee-Management-System  
 
 ---
 
