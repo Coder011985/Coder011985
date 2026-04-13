@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=220&section=header&text=Yash%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
@@ -38,16 +38,12 @@
 ✔ Role-based system for clients & designers  
 ✔ Built with Laravel, PHP, MySQL, HTML, CSS, JavaScript  
 
-🔗 https://github.com/Coder011985/IDP_main  
-
 ---
 
 ### ✈️ Travel Planner
 ✔ Trip planning & booking system  
 ✔ User authentication & database management  
 ✔ Built with ASP.NET and SQL  
-
-🔗 https://github.com/Coder011985/Main_Sem6_Bachelor_TravelPlanner  
 
 ---
 
@@ -56,16 +52,12 @@
 ✔ Structured hosting plans & UI design  
 ✔ Built with ASP.NET and MySQL  
 
-🔗 https://github.com/Coder011985/Main_Sem3_Master_WebHosting  
-
 ---
 
 ### 👨‍💼 Employee Management System
 ✔ Employee CRUD, salary & admin management  
 ✔ Database-driven system  
 ✔ Built with C#.NET and MySQL  
-
-🔗 https://github.com/Coder011985/Main_Sem5_Bachelor_Employee-Management-System  
 
 ---
 
@@ -95,4 +87,10 @@
   <a href="https://www.instagram.com/yash_patel_07770">
     <img src="https://img.shields.io/badge/Instagram-@yash__patel__07770-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b21f1f,100:1a2a6c&height=140&section=footer&animation=fadeIn"/>
 </p>
