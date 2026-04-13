@@ -6,6 +6,10 @@
 <h3 align="center">Full Stack Developer | Laravel | PHP | MySQL</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Laravel+Developer;Quick+Learner+🚀;Building+Real+World+Projects&center=true&width=500&height=45">
+</p>
+
+<p align="center">
   🚀 Building real-world web applications | ⚡ Quick Learner | 💡 Problem Solver
 </p>
 
@@ -15,20 +19,14 @@
 - 🎓 M.Sc (CA & IT) Student  
 - 💻 Passionate about Web Development  
 - ⚡ Quick learner & easily adapts to new technologies and languages  
-- 🔍 Focused on building real-world applications  
+- 🔍 Focused on building scalable and real-world applications  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode" />
 </p>
 
 ---
@@ -38,21 +36,21 @@
 ### 🏠 Interior Design Portal
 ✔ Full-stack platform with bidding, chat & payment system  
 ✔ Role-based system for clients & designers  
-✔ Built with Laravel, PHP, MySQL  
+✔ Laravel + PHP + MySQL  
 
 ---
 
 ### ✈️ Travel Planner
 ✔ Trip planning & booking system  
-✔ User authentication & database management  
-✔ Built with PHP, MySQL  
+✔ Authentication & database design  
+✔ PHP + MySQL  
 
 ---
 
 ### 👨‍💼 Employee Management System
 ✔ Employee CRUD & salary management  
-✔ Admin dashboard & database system  
-✔ Built with PHP & MySQL  
+✔ Admin dashboard  
+✔ PHP + MySQL  
 
 ---
 
@@ -60,10 +58,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coder011985&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder011985&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Coder011985&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder011985&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🤝 Connect with me
-- 📧 yash011589@gmail.com
+## 🌐 Connect with me
+<p align="center">
+  <a href="mailto:yash011589@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
