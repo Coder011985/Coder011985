@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">Full Stack Developer | Laravel | PHP | MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Developer;Quick+Learner+🚀;Always+Learning+New+Tech&center=true&width=500&height=45">
+  🚀 Building real-world web applications | ⚡ Quick Learner | 💡 Problem Solver
 </p>
 
 ---
@@ -10,7 +14,7 @@
 ## 🚀 About Me
 - 🎓 M.Sc (CA & IT) Student  
 - 💻 Passionate about Web Development  
-- ⚡ Quick learner & easily adapts to new technologies  
+- ⚡ Quick learner & easily adapts to new technologies and languages  
 - 🔍 Focused on building real-world applications  
 
 ---
@@ -29,27 +33,34 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏠 Interior Design Portal
-- Full-stack platform with bidding, chat & payment system  
-- Built using Laravel, PHP, MySQL  
+✔ Full-stack platform with bidding, chat & payment system  
+✔ Role-based system for clients & designers  
+✔ Built with Laravel, PHP, MySQL  
+
+---
 
 ### ✈️ Travel Planner
-- Trip planning & booking system with authentication  
-- Built using PHP, MySQL  
+✔ Trip planning & booking system  
+✔ User authentication & database management  
+✔ Built with PHP, MySQL  
+
+---
 
 ### 👨‍💼 Employee Management System
-- Employee CRUD, salary & admin management  
-- Built using PHP & MySQL  
+✔ Employee CRUD & salary management  
+✔ Admin dashboard & database system  
+✔ Built with PHP & MySQL  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coder011985&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder011985&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder011985&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder011985&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
