@@ -87,4 +87,12 @@
   <a href="mailto:yash011589@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/yash-patel-a38579360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Patel-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://www.instagram.com/yash_patel_07770">
+    <img src="https://img.shields.io/badge/Instagram-@yash__patel__07770-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
