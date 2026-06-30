@@ -33,28 +33,28 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 Interior Design Portal
+### 🏠 [Interior Design Portal](https://coder011985.github.io/portfolio/project1.html)
 ✔ Full-stack platform with bidding, chat & payment system  
 ✔ Role-based system for clients & designers  
 ✔ Built with Laravel, PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
-### ✈️ Travel Planner
+### ✈️ [Travel Planner](https://coder011985.github.io/portfolio/project2.html)
 ✔ Trip planning & booking system  
 ✔ User authentication & database management  
 ✔ Built with ASP.NET and SQL  
 
 ---
 
-### 🌐 Web Hosting Website
+### 🌐 [Web Hosting Website](https://coder011985.github.io/portfolio/project4.html)
 ✔ Responsive hosting service website  
 ✔ Structured hosting plans & UI design  
 ✔ Built with ASP.NET and MySQL  
 
 ---
 
-### 👨‍💼 Employee Management System
+### 👨‍💼 [Employee Management System](https://coder011985.github.io/portfolio/project3.html)
 ✔ Employee CRUD, salary & admin management  
 ✔ Database-driven system  
 ✔ Built with C#.NET and MySQL  
