@@ -56,21 +56,21 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
 ---
 
 ### ✈️ [Travel Planner](https://coder011985.github.io/portfolio/project2.html)
-✔ ASP.NET travel booking platform with authentication, destination management, and booking workflow
-✔ User authentication & database management  
+✔ ASP.NET travel booking platform with authentication, destination management, and booking workflow  
+✔ User authentication & database management
 ✔ Built with ASP.NET and SQL  
 
 ---
 
 ### 🌐 [Web Hosting Website](https://coder011985.github.io/portfolio/project4.html)
-✔ Responsive ASP.NET website showcasing hosting plans, pricing, and service management
+✔ Responsive ASP.NET website showcasing hosting plans, pricing, and service management  
 ✔ Structured hosting plans & UI design  
 ✔ Built with ASP.NET and MySQL  
 
 ---
 
 ### 👨‍💼 [Employee Management System](https://coder011985.github.io/portfolio/project3.html)
-✔ C#.NET application for employee records, salary management, authentication, and CRUD operations
+✔ C#.NET application for employee records, salary management, authentication, and CRUD operations  
 ✔ Database-driven system  
 ✔ Built with C#.NET and MySQL  
 
