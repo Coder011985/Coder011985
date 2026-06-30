@@ -49,7 +49,7 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
 ## 🚀 Featured Projects
 
 ### 🏠 [Interior Design Portal](https://coder011985.github.io/portfolio/project1.html)
-✔ Laravel-based marketplace featuring designer bidding, real-time chat, milestone payments, and an admin dashboard
+✔ Laravel-based marketplace featuring designer bidding, real-time chat, milestone payments, and an admin dashboard  
 ✔ Role-based system for clients & designers  
 ✔ Built with Laravel, PHP, MySQL, HTML, CSS, JavaScript  
 
