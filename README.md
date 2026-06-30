@@ -84,6 +84,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Patel-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
+  <a href="https://coder011985.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
   <a href="https://www.instagram.com/yash_patel_07770">
     <img src="https://img.shields.io/badge/Instagram-@yash__patel__07770-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
