@@ -41,7 +41,7 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,mysql,html,css,js,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,mysql,html,css,js,bootstrap,git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -49,28 +49,28 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
 ## 🚀 Featured Projects
 
 ### 🏠 [Interior Design Portal](https://coder011985.github.io/portfolio/project1.html)
-✔ Full-stack platform with bidding, chat & payment system  
+✔ Laravel-based marketplace with designer bidding, real-time chat, milestone payments, and admin dashboard  
 ✔ Role-based system for clients & designers  
 ✔ Built with Laravel, PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
 ### ✈️ [Travel Planner](https://coder011985.github.io/portfolio/project2.html)
-✔ Trip planning & booking system  
+✔ ASP.NET travel booking platform with authentication, destination management, and booking workflow
 ✔ User authentication & database management  
 ✔ Built with ASP.NET and SQL  
 
 ---
 
 ### 🌐 [Web Hosting Website](https://coder011985.github.io/portfolio/project4.html)
-✔ Responsive hosting service website  
+✔ Responsive ASP.NET website showcasing hosting plans, pricing, and service management
 ✔ Structured hosting plans & UI design  
 ✔ Built with ASP.NET and MySQL  
 
 ---
 
 ### 👨‍💼 [Employee Management System](https://coder011985.github.io/portfolio/project3.html)
-✔ Employee CRUD, salary & admin management  
+✔ C#.NET application for employee records, salary management, authentication, and CRUD operations
 ✔ Database-driven system  
 ✔ Built with C#.NET and MySQL  
 
@@ -99,13 +99,6 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Patel-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://coder011985.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://coder011985.github.io/portfolio/Yash_CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
   <a href="https://www.instagram.com/yash_patel_07770">
     <img src="https://img.shields.io/badge/Instagram-@yash__patel__07770-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
