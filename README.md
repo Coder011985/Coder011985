@@ -3,23 +3,38 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
-<h3 align="center">Full Stack Developer | PHP • Laravel • .NET • MySQL</h3>
+<h3 align="center">
+Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • JavaScript
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Laravel+%26+.NET+Developer;Quick+Learner+🚀;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  🚀 Building real-world web applications | ⚡ Quick Learner | 💡 Problem Solver
+  🚀 Building real-world web applications • ⚡ Quick Learner • 💡 Problem Solver
+</p>
+
+<p align="center">
+  <a href="https://coder011985.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://coder011985.github.io/portfolio/Yash_CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 M.Sc (CA & IT) Student  
-- 💻 Passionate about Full Stack Web Development  
-- ⚡ Quick learner & easily adapts to new technologies and programming languages  
-- 🔍 Focused on building scalable and real-world applications  
+
+- 🎓 Completed M.Sc. (CA & IT)
+- 💻 Full Stack Developer with experience in Laravel, PHP, ASP.NET, C#.NET, MySQL, JavaScript, HTML, CSS, and Bootstrap
+- 🚀 Passionate about building responsive and scalable web applications
+- ⚡ Quick learner who adapts to new technologies and programming languages
+- 💡 Experienced with Git, GitHub, ChatGPT, Google Gemini, and Microsoft Copilot
+- 🎯 Open to Full Stack Web Developer opportunities
 
 ---
 
