@@ -88,6 +88,9 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
+<a href="https://coder011985.github.io/portfolio/Yash_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
   <a href="https://www.instagram.com/yash_patel_07770">
     <img src="https://img.shields.io/badge/Instagram-@yash__patel__07770-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
