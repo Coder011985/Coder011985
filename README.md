@@ -16,15 +16,16 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
 </p>
 
 <p align="center">
-  <a href="https://coder011985.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
 
-  <a href="https://coder011985.github.io/portfolio/Yash_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+<a href="https://coder011985.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-2ea44f?style=for-the-badge"/>
+</a>
+
+<a href="https://coder011985.github.io/portfolio/Yash_CV.pdf" target="_blank">
+<img src="https://img.shields.io/badge/📄%20Resume-Download-ea4335?style=for-the-badge"/>
+</a>
+
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -59,6 +60,7 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
 ✔ ASP.NET travel booking platform with authentication, destination management, and booking workflow  
 ✔ User authentication & database management  
 ✔ Built with ASP.NET and SQL
+
 ---
 
 ### 🌐 [Web Hosting Website](https://coder011985.github.io/portfolio/project4.html)
@@ -90,17 +92,23 @@ Full Stack Developer | Laravel • PHP • ASP.NET • C#.NET • MySQL • Java
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="mailto:yash011589@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/yash-patel-a38579360/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Patel-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="mailto:yash011589@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
 
-  <a href="https://www.instagram.com/yash_patel_07770">
-    <img src="https://img.shields.io/badge/Instagram-@yash__patel__07770-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/yash-patel-a38579360/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="https://github.com/Coder011985">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://www.instagram.com/yash_patel_07770">
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+</a>
+
 </p>
 
 ---
